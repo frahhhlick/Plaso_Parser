@@ -6,7 +6,10 @@ The script takes a variable for "TIMELINE_PATH", telling it where to look for th
 1. export TIMELINE_PATH=<path> on the Host System
 2. Add the variable to a Logstash .env file
 
+The output is set to a localhost Elastic instance with the index name "plaso-parsed". Feel free to change as desired!
+
 # Improvement Requests
 Please send improvement requests and issues to scarl33t.forensics@gmail.com
 
-# Plaso Github Repo: https://github.com/log2timeline/plaso
+# Plaso Github Repo 
+https://github.com/log2timeline/plaso
